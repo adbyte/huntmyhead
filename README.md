@@ -1,6 +1,6 @@
-# CareerOS v0.1
+# HuntMyHead v0.1
 
-A local-first Windows career dashboard. It stores your career profile, projects, evidence files, discovered jobs, application drafts and outreach drafts on your laptop.
+A local-first career dashboard. It stores your career profile, projects, evidence files, discovered jobs, application drafts and outreach drafts on your laptop.
 
 ## Quick start (Windows 10/11)
 
